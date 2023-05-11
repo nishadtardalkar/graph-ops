@@ -1,5 +1,8 @@
 # graph-ops
  
+ This is a repo just to keep all the ops
+ This doesnt include the actuall graph builder and python wrapper to execute all the ops
+ 
  
 # nn-ops
 Ops to be compiled using Clang-AVX2
